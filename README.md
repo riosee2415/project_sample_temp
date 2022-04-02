@@ -55,3 +55,11 @@
 - [x] 공지사항 작성하기
 - [ ] 공지사항 상세보기
 - [ ] 공지사항 수정하기
+
+## Teq
+
+- Node.js
+- Express Framework
+- Pug View Engine
+- Mysql Version 8.x.x
+- CSS
